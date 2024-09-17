@@ -1,0 +1,1 @@
+WEBSOCKET_URL = wss://assistant-hiwuvmwj.livekit.cloud
