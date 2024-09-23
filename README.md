@@ -5,6 +5,16 @@
 
 </div>
 
+<div align="center">
+
+
+[![GitHub stars](https://img.shields.io/github/stars/PhamTrinhDuc/AI-Voice-Assistant)](https://github.com/PhamTrinhDuc/AI-Voice-Assistant/stargazers)[![GitHub issues](https://img.shields.io/github/issues/PhamTrinhDuc/CAI-Voice-Assistant)](https://github.com/PhamTrinhDuc/AI-Voice-Assistant/issues)
+
+In this project, I will build a virtual assistant that asks and answers through voice, using Livekit and OpenAI. In addition, I also set a number of separate tasks so that the assistant can respond and adjust according to my wishes.
+
+</div>
+
+
 ## **1. To Install This Application, Follow These Steps:**
 #### Step 1. Clone the repository:
 ```bash
