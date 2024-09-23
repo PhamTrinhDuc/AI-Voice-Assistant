@@ -45,5 +45,5 @@ python3 main.py start
 
 ## DEMO RESULT
 <div align="center">
-<img src="./voice assitant.png" alt="demo" width=1000 height=500/>
+<img src="./voice assitant.png" alt="demo" width=500 height = 1000/>
 </div>
