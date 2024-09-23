@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<div> VOICE ASSISTANT </div>
+# VOICE ASSISTANT
 
 </div>
 
