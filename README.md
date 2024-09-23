@@ -1,7 +1,7 @@
 
 <div align="center">
 
-**AI VOICE ASSITANT**
+<div> VOICE ASSISTANT </div>
 
 </div>
 
@@ -45,5 +45,5 @@ python3 main.py start
 
 ## DEMO RESULT
 <div align="center">
-<img src=".voice assitant.png" alt="pipeline" width=1000 height=500/>
+<img src="./voice assitant.png" alt="demo" width=1000 height=500/>
 </div>
