@@ -52,8 +52,3 @@ login to the [Livekit](https://livekit.io/)
 ```
 python3 main.py start
 ```
-
-## DEMO RESULT
-<div align="center">
-<img src="./voice assitant.png" alt="demo" width=850 height = 1000/>
-</div>
